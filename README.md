@@ -77,7 +77,7 @@ Follow the steps below for installation of this project.
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
-DB_DATABASE=shop_db
+DB_DATABASE=applicant_db
 DB_USERNAME=root
 DB_PASSWORD=
 ```
