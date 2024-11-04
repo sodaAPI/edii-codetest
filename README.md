@@ -23,10 +23,6 @@
 
 ## About
 
-## Installation
-
-Make sure you have environment setup properly. You will need PHP8.1, composer and Node.js.
-
 <div>
 <h3>Applicant Management - Laract CRUD</h3>
 <p align="justify">Meet Applicant Management – the all-in-one solution to streamline operations, boost productivity, and keep your team aligned, wherever they are.</p>
